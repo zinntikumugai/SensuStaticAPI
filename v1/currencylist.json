@@ -1,0 +1,110 @@
+{
+    "date": "2018/06/16",
+    "list": [
+        {
+            "name": "BitZeny",
+            "net": "main",
+            "code": "ZNY"
+        },
+        {
+            "name": "BitZeny",
+            "net": "test",
+            "code": "ZNYT"
+        },
+        {
+            "name": "Bitcoin",
+            "net": "main",
+            "code": "BTC"
+        },
+        {
+            "name": "Curium",
+            "net": "main",
+            "code": "CRU"
+        },
+        {
+            "name": "BitZeny",
+            "net": "main",
+            "code": "ZNY"
+        },
+        {
+            "name": "DSTRA",
+            "net": "main",
+            "code": "DST"
+        },
+        {
+            "name": "DigiByte",
+            "net": "main",
+            "code": "DGB"
+        },
+        {
+            "name": "Diverse",
+            "net": "main",
+            "code": "DVRS"
+        },
+        {
+            "name": "Dogecoin",
+            "net": "main",
+            "code": "DOGE"
+        },
+        {
+            "name": "KumaCoin",
+            "net": "main",
+            "code": "KUMA"
+        },
+        {
+            "name": "Monacoin",
+            "net": "main",
+            "code": "MONA"
+        },
+        {
+            "name": "Monacoin",
+            "net": "test",
+            "code": "MONAT"
+        },
+        {
+            "name": "NEETCOIN",
+            "net": "main",
+            "code": "NEET"
+        },
+        {
+            "name": "Phore",
+            "net": "main",
+            "code": "PHR"
+        },
+        {
+            "name": "Ringo",
+            "net": "main",
+            "code": "RIN"
+        },
+        {
+            "name": "SanDeGo",
+            "net": "main",
+            "code": "SDGO"
+        },
+        {
+            "name": "SHIELD",
+            "net": "main",
+            "code": "XSH"
+        },
+        {
+            "name": "Sprouts",
+            "net": "main",
+            "code": "SPRTS"
+        },
+        {
+            "name": "StrongHands",
+            "net": "main",
+            "code": "SHND"
+        },
+        {
+            "name": "VIPSTARCOIN",
+            "net": "main",
+            "code": "VIPS"
+        },
+        {
+            "name": "eXperiencePoints",
+            "net": "main",
+            "code": "XP"
+        }
+    ]
+}

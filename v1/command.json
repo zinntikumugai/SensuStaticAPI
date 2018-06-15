@@ -1,0 +1,38 @@
+{
+    "date": "2018/06/15",
+    "list": {
+        "agree": {
+            "option": null
+        },
+        "help": {
+            "option": ["?command_name"]
+        },
+        "lang": {
+            "option": ["language_code"]
+        },
+        "balance": {
+            "option": ["currency_code"]
+        },
+        "deposit": {
+            "option": ["currency_code"]
+        },
+        "withdraw": {
+            "option": ["currency_code", "price", "address"]
+        },
+        "rain": {
+            "option": ["currency_code", "price"]
+        },
+        "tip": {
+            "option": ["currency_code", "price", "target"]
+        },
+        "link": {
+            "option": ["authentication_code"]
+        },
+        "unlink": {
+            "option": null
+        },
+        "passwd": {
+            "option": ["password_hash"]
+        }
+    }
+}
