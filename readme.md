@@ -7,6 +7,6 @@
 
 # 使い方
 ```
-https://s2api.cf/v1/currencylist.json
+https://s3api.cf/v1/currencylist.json
 ```
 上のように直接アクセスしてください  
